@@ -3,12 +3,10 @@ Dr. Muhammad Arif Butt is an Assistant Professor at the Department of Data Scien
 <br> Email: arif@pucit.edu.pk, arifpucit@gmail.com 
 <br> YouTube Channel: https://www.youtube.com/c/LearnWithArif/playlists
 <br> ORCID ID: 0000-0002-7045-7618
-
-
 <br>
 <br>
 
-  - 👀 I’m currently working on a Course "Data Science With Python"
+  - 👀 I’m currently working on a Course "Tools and Technologies for Data Science"
   - 💻 Check out my other Courses: "Operating System with Linux", "System Programming (SP)", "Computer Organization & Assembly Language (COAL)", "A hands-on Internetworking course with Linux", "C-Refresher"
   - 👉 My Youtube Channel: https://www.youtube.com/c/LearnWithArif
   - ✊️ I hope Learning is fun With Arif Butt
