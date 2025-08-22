@@ -13,7 +13,8 @@ A dedicated and results-driven professional, Dr. Butt is recognized for his stro
 <br>
 <br>
 
-  - 👀 I’m currently developing advanced coursework on <b>Generative AI Applications in Security Research: Leveraging Large Language Models and MCP Servers for Automated Vulnerability Discovery, Binary Analysis, and Exploit Development Across Mobile and Desktop Operating Systems<b>
+  - 👀 <b>I’m currently developing advanced coursework on Generative AI Applications in Security Research: Leveraging Large Language Models and MCP Servers for Automated Vulnerability Discovery, Binary Analysis, and Exploit Development Across Mobile and Desktop Operating Systems</b>
+  
   - 💻 Check out my other Courses: "Tools and Technologies for Data Science", "Operating System with Linux", "System Programming (SP)", "Computer Organization & Assembly Language (COAL)", "A hands-on Internetworking course with Linux", "C-Refresher"
   - 👉 My Youtube Channel: https://www.youtube.com/c/LearnWithArif
   - ✊️ I hope Learning is fun With Arif Butt
