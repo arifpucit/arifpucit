@@ -4,7 +4,9 @@ With over 33 years of experience in teaching and management, Dr. Butt has served
 
 Beyond academia, he is a technology entrepreneur, serving as the Founder of Excaliat and Falcon-Hunt and Co-Founder of Tbox Solutionz. In recent years, he has gained significant expertise in vulnerability research, binary exploitation, and exploit development, excelling in identifying and mitigating critical security risks across diverse platforms. His deep understanding of software architectures, memory corruption techniques, and attack vectors strengthens his ability to proactively enhance cybersecurity defences.
 
-A dedicated and results-driven professional, Dr. Butt is recognized for his strong organizational skills, strategic thinking, and ability to thrive in collaborative environments. His expertise in cybersecurity and emerging technologies enables him to contribute effectively to both academic research and industry innovation, reinforcing defences against evolving cyber threats<br> Website: http://arifbutt.me
+A dedicated and results-driven professional, Dr. Butt is recognized for his strong organizational skills, strategic thinking, and ability to thrive in collaborative environments. His expertise in cybersecurity and emerging technologies enables him to contribute effectively to both academic research and industry innovation, reinforcing defences against evolving cyber threats
+
+<br> Website: http://arifbutt.me
 <br> Email: arif@pucit.edu.pk, arifpucit@gmail.com 
 <br> YouTube Channel: https://www.youtube.com/c/LearnWithArif/playlists
 <br> ORCID ID: 0000-0002-7045-7618
